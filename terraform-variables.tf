@@ -1,3 +1,7 @@
+##  Project Information  ##
+
+  variable "project_name" {description = "Project Name"}
+
 ##  AWS Account Information  ##
 
   variable "tf_provider_aws_region"     {description = "AWS Region"}
